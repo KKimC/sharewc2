@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653075154054",
+    "project_id": "sharewc2",
+    "storage_bucket": "sharewc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653075154054:android:8bc3f8ebadf76ffa2f3d07",
+        "android_client_info": {
+          "package_name": "com.scsa.andr.sharewc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653075154054-ga9lvfjip034u881oj55fn7ka269lar6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4ibcPAetghdnRLN1OAHXK2ik9SzmhIV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653075154054-ga9lvfjip034u881oj55fn7ka269lar6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
